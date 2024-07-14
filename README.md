@@ -23,7 +23,7 @@ Welcome to the showcase of my latest web design marvel for XYZ Solutions – a b
 ## Connect with Me
 - **Email:** contact@manishparkar.com
 - **Phone Number:** +91 8591432068
-- **Upwork:** [Invite me](https://www.upwork.com)
+- **Upwork:** [Invite me](https://www.upwork.com/freelancers/manishparkar)
 
 ## License
 This project is licensed under the MIT License.
