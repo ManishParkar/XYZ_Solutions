@@ -27,3 +27,7 @@ Welcome to the showcase of my latest web design marvel for XYZ Solutions – a b
 
 ## License
 This project is licensed under the MIT License.
+
+
+![image_original](https://github.com/user-attachments/assets/65de6d53-646e-4fef-83c2-9b02efa14334)
+![image_original](https://github.com/user-attachments/assets/19fe4e31-ff49-4a0a-8fdc-88f72a74f043)
